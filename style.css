@@ -1,0 +1,24 @@
+h1{
+    color:green;
+    padding-left: 500px;
+    padding-bottom: 100px;
+}
+body{
+    background-color:blue;
+}
+.item:hover img{
+    opacity: 0.3; 
+ }
+ a:link{
+     color:orangered;
+ }
+ a:visited{
+     color:rgb(145, 45, 6);
+ }
+ .item p{
+    position: absolute;
+    opacity: 0.3;
+ }
+ .item:hover p{
+    opacity: 1;
+}
